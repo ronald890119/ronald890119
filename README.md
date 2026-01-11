@@ -1,5 +1,5 @@
 ## Intro
-:wave: Hi, I'm Ronald. You can know me better via :point_right: [my portfolio](https://ronald890119-portfolio.vercel.app) :point_left: </br>
+:wave: Hi, I'm Ronald. You can know me better via :point_right: [my portfolio](https://portfolio.ronald890119.com) :point_left: </br>
 I am currently working as Frontend Developer Intern.
 
 I also love Bang Dream so much, especially Roselia and Ave Mujica!
